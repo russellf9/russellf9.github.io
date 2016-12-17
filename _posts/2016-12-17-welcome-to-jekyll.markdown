@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Factornine!"
+title:  "Welcome to Jekyll!"
 date:   2016-12-17 17:25:15 +0000
 categories: jekyll update
 ---
