@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Add a post from Github"
+date:   2016-12-17 17:35:15 +0000
+categories: learning jekyll
+---
+
+# Using Github
+
+Easy to create a post direclty!
