@@ -5,7 +5,7 @@ date:   2016-12-17 17:35:15 +0000
 categories: learning jekyll
 ---
 
-A new blog for Factornine
+# A new blog for Factornine
 
 Using the docs on [https://jekyllrb.com/](https://jekyllrb.com/)
 
