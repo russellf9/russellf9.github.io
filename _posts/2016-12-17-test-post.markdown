@@ -14,4 +14,4 @@ categories: learning jekyll git hub
 * [Github pages](https://pages.github.com/) is a simple an free solution
 * Jekyll can use [Themes](https://jekyllrb.com/docs/themes/)
 * There are plenty of public themes [jekyllthemes](http://jekyllthemes.org/
-* [Adding a Jekyll theme to your site}(https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
+* [Adding a Jekyll theme to your site](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
