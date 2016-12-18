@@ -9,9 +9,9 @@ categories: learning jekyll git hub
 
 * Easy to create a post direclty by creating or editing pages in [github](https://github.com)
 * Uses standard [Markdown](https://daringfireball.net/projects/markdown/) syntax
-* Can only use [Okramdown](https://kramdown.gettalong.org/quickref.html) markdown
+* Can only use [kramdown](https://kramdown.gettalong.org/quickref.html) markdown
 * [Jekyll](https://jekyllrb.com/) is a simple lightweight solution
 * [Github pages](https://pages.github.com/) is a simple an free solution
 * Jekyll can use [Themes](https://jekyllrb.com/docs/themes/)
-* There are plenty of public themes [jekyllthemes](http://jekyllthemes.org/
+* There are plenty of public themes [jekyllthemes](http://jekyllthemes.org/)
 * [Adding a Jekyll theme to your site](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
